@@ -1,0 +1,1 @@
+# handWrittingGenerator_OneCharacterTraining
